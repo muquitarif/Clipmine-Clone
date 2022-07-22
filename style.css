@@ -93,16 +93,29 @@ h3 {
 
 #startups {
     align-items: center;
-    padding: 50px 0px 50px 0px;
-    border: 2px dashed black;
-    margin-right: 50px;
+    padding: 100px 0px 100px 0px;
+    margin-right: 30px;
+    margin-left: 10px;
+    background-image: url(./images/startups.webp);
+    color: white;
+    background-color: rgb(99, 64, 1);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
-
 #machinelearning {
-    padding: 50px 0px 50px 0px;
-    margin-left: 50px;
-    border: 2px dashed black;
+    padding: 100px 0px 100px 0px;
+    margin-left: 30px;
+    margin-right: 10px;
+    background-image: url(./images/machine-learning.webp);
+    color: white;
+    background-color: rgb(85, 83, 218);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #links {
