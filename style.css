@@ -75,7 +75,7 @@ h3 {
     font-weight: 300;
 }
 
-#logos1 {
+#logos {
     background-color: rgb(233, 233, 233);
     min-height: 500px;
 }
@@ -116,6 +116,11 @@ h3 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+#startups:hover,
+#machinelearning:hover {
+    background-color: #00000018;
 }
 
 #links {
