@@ -51,10 +51,15 @@ li {
     text-align: left;
 }
 
+#card1,
+#card2,
+#card3 {
+    padding: 30px 30px 30px 30px;
+    min-width: 360px;
+}
+
 .card {
     border: none;
-    padding-left: 30px;
-    padding-right: 30px;
 }
 
 #txt_color {
