@@ -107,6 +107,7 @@ h3 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    border-bottom: 10px solid rgb(230, 149, 0);
 }
 
 #machinelearning {
@@ -119,6 +120,7 @@ h3 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    border-bottom: 10px solid rgb(85, 83, 218);
 }
 
 #startups:hover,
