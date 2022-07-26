@@ -93,9 +93,8 @@ h3 {
 
 #startups {
     align-items: center;
-    padding: 100px 0px 100px 0px;
-    margin-right: 30px;
-    margin-left: 10px;
+    padding: 100px 50px 100px 50px;
+    margin: 20px 30px 0px 30px;
     background-image: url(./images/startups.webp);
     color: white;
     background-color: rgb(99, 64, 1);
@@ -106,9 +105,8 @@ h3 {
 }
 
 #machinelearning {
-    padding: 100px 0px 100px 0px;
-    margin-left: 30px;
-    margin-right: 10px;
+    padding: 100px 50px 100px 50px;
+    margin: 20px 30px 0px 30px;
     background-image: url(./images/machine-learning.webp);
     color: white;
     background-color: rgb(85, 83, 218);
@@ -120,7 +118,7 @@ h3 {
 
 #startups:hover,
 #machinelearning:hover {
-    background-color: #00000018;
+    background-color: #000000cc;
 }
 
 #links {
