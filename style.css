@@ -26,7 +26,7 @@ li {
 #hero {
     margin-top: 10px;
     border: 1px solid black;
-    background-image: url(./images/tablet.webp);
+    background-image: url(./images/hero/top-section_2180x750.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -100,7 +100,7 @@ h3 {
     align-items: center;
     padding: 100px 50px 100px 50px;
     margin: 20px 30px 0px 30px;
-    background-image: url(./images/startups.webp);
+    background-image: url(./images/collections/collection-startup_460x184.png);
     color: white;
     background-color: rgb(99, 64, 1);
     background-blend-mode: multiply;
@@ -113,7 +113,7 @@ h3 {
 #machinelearning {
     padding: 100px 50px 100px 50px;
     margin: 20px 30px 0px 30px;
-    background-image: url(./images/machine-learning.webp);
+    background-image: url(./images/collections/collection-ml_461x184.png);
     color: white;
     background-color: rgb(85, 83, 218);
     background-blend-mode: multiply;
