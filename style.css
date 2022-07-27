@@ -95,7 +95,7 @@ h3 {
 
 #image {
     text-align: right;
-    padding-right: 70px;
+    padding-right: 30px;
     padding-bottom: 30px;
     max-width: 300px;
 }
@@ -106,12 +106,11 @@ h3 {
     margin: 20px 30px 0px 30px;
     background-image: url(./images/collections/collection-startup_460x184.png);
     color: white;
-    background-color: rgb(99, 64, 1);
+    background-color: rgba(233, 154, 7, 0.199);
     background-blend-mode: multiply;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    border-bottom: 10px solid rgb(230, 149, 0);
 }
 
 #machinelearning {
@@ -119,12 +118,11 @@ h3 {
     margin: 20px 30px 0px 30px;
     background-image: url(./images/collections/collection-ml_461x184.png);
     color: white;
-    background-color: rgb(85, 83, 218);
+    background-color: rgba(85, 83, 218, 0.37);
     background-blend-mode: multiply;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    border-bottom: 10px solid rgb(85, 83, 218);
 }
 
 #startups:hover,
@@ -132,10 +130,37 @@ h3 {
     background-color: #000000cc;
 }
 
-#links {
+#footer-links {
     background-color: rgb(22, 25, 53);
-    padding: 20px;
+    padding: 20px 10px 10px 10px;
     color: white;
+}
+
+#paste-link {
+    max-width: 900px;
+}
+
+#search {
+    padding: 10px;
+    border: 1px solid rgb(201, 201, 201);
+}
+
+#tagnow-button {
+    padding: 10px;
+    border: none;
+    background-color: rgba(0, 73, 122, 0.808);
+    color: white;
+    border-radius: 1px;
+}
+
+#con-fluid {
+    background-color: rgb(233, 233, 233);
+    min-height: 400px;
+}
+
+#width2 {
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 #copyrights {
